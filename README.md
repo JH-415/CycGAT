@@ -38,7 +38,7 @@ conda clean --all
 ./CycGAT:  training code.
 
 ```bash
-# first run Cycke_basis.m in MATLAB
+# first run Cycle_basis.m in MATLAB
 # train CycGAT:
    python CycGAT.py
 ```
